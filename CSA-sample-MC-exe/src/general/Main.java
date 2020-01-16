@@ -17,7 +17,7 @@ public class Main {
 		{
 			File file=new File("/Users/1901209/Desktop/q1.java");    //creates a new file instance  
 			FileReader fr=new FileReader(file);   //reads the file  
-			
+			//ss
 			BufferedReader br=new BufferedReader(fr);  //creates a buffering character input stream 
 			
 			String line; 
