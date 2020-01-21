@@ -22,3 +22,25 @@ public class _q2_2015 {
 	System.out.println();
 	}
 }
+/*What is printed as a result of executing the code segment?
+A. 
+	_ _ *
+	_ * *
+ 	* * *
+B.
+	* _ _
+	* * _
+	* * *
+C.
+ 	* * *
+ 	_ * *
+ 	_ _ *
+ D.
+ 	* * *
+ 	* * _
+ 	* _ _
+E.
+	_ _ *
+	* * *
+	_ _ *
+*/
