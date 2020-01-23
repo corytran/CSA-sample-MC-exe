@@ -15,7 +15,7 @@ public class Main {
 	{ 	
 		try
 		{
-			File file=new File("/Users/1901209/Desktop/q1.java");    //creates a new file instance  
+			File file=new File("/Users/1845930/git/CSA-sample-MC-exe/CSA-sample-MC-exe/src/dsg.java");    //creates a new file instance  
 			FileReader fr=new FileReader(file);   //reads the file  
 			//ss
 			BufferedReader br=new BufferedReader(fr);  //creates a buffering character input stream 
