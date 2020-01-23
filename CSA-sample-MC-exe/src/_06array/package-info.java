@@ -1,1 +1,1 @@
-package _06array;
+package _06array;//
