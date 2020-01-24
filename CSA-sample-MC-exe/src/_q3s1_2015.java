@@ -1,5 +1,6 @@
 
-public class _q3s1_2015 {
+public class _q3s1_2015 
+{
 
 	public static void main(String[] args) {
 	for (int outer = 1; outer <= 6; outer++)
