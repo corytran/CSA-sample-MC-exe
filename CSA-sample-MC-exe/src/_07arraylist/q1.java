@@ -22,5 +22,6 @@ public class q1 {
 	(c) [P, Q, T, s, u]
 	(d) [P, T, Q, s, u] 
 	(e) [P, T, s, R, u]
+	
 	*/
 }
