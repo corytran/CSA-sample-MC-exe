@@ -16,7 +16,7 @@ public class q_2
 	 {
 	    // ... other methods not shown 
 	 }
-	 /*}}
+	 /*
 	 * 	Which of the following method signatures of compareTo will satisfy the Comparable interface requirement?
 	 * III. public int compareTo(Object other)
 	 * III. public int compareTo(SomeClass other)
